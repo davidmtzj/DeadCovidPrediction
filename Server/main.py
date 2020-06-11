@@ -1,4 +1,4 @@
-from flask import Flask, request, make_response, redirect, render_template, session, url_for, flash, jsonify, request
+from flask import Flask, request, make_response, redirect, render_template, session, url_for, flash, jsonify
 from flask_cors import CORS
 import os
 import joblib
